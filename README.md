@@ -1,4 +1,4 @@
-# date_matching
+# Temporal Named Entity Extraction
 Homework 1 for LING 406
 Temporal Named Entity Extraction:
 - This program reads from standard input and outputs the American format of date. 
